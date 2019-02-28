@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Weather</string>
+    <string name="sunday">Sunday</string>
+    <string name="you_have_1_appointment">You have 1 appointment</string>
+    <string name="go_to_calendar">Go to Calendar</string>
+    <string name="todo">TODO</string>
+    <string name="fri">fri</string>
+    <string name="thu">thu</string>
+</resources>
